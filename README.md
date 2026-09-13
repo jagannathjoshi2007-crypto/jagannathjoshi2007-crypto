@@ -1,192 +1,313 @@
-# Hey, I'm Jagannath Joshi
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Python+%7C+Web+Development+%7C+Cybersecurity;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking+%E2%80%A2+Fixing;Turning+ideas+into+code+%F0%9F%9A%80" />
-</p>
+# Hey, I'm **Jagannath Joshi**
 
-<p align="center">
-  <b>🎓 CSE Student @ Indus University</b>
-  <br>
-  <b>🐍 Python Learner • 🌐 Web Developer • 🔐 Cybersecurity Explorer</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Python+Developer+%F0%9F%90%8D;Web+Development+%F0%9F%8C%90;Cybersecurity+Explorer+%F0%9F%94%90;Building+%E2%80%A2+Learning+%E2%80%A2+Improving+%F0%9F%9A%80" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagannathjoshi2007-crypto&label=PROFILE+VIEWS&style=for-the-badge" />
-</p>
+<br>
+
+<a href="https://github.com/jagannathjoshi2007-crypto">
+<img src="https://komarev.com/ghpvc/?username=jagannathjoshi2007-crypto&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## 🧠 `whoami`
+## 🧑‍💻 `whoami`
 
 ```python
-class Jagannath:
+class JagannathJoshi:
 
-    name = "Jagannath Joshi"
-    role = "Computer Science Engineering Student"
-    university = "Indus University"
+    def __init__(self):
+        self.name = "Jagannath Joshi"
+        self.role = "CSE Student"
+        self.university = "Indus University"
 
-    interests = [
-        "Python",
-        "Web Development",
-        "Cybersecurity",
-        "Problem Solving",
-        "Hackathons"
-    ]
+        self.languages = [
+            "Python",
+            "Java",
+            "C",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
 
-    mindset = "Learn → Build → Improve"
+        self.interests = [
+            "Web Development",
+            "Cybersecurity",
+            "Problem Solving",
+            "Hackathons"
+        ]
+
+    def mission(self):
+        return "Learn → Build → Improve → Repeat"
 ```
 
-I'm a Computer Science & Engineering student who enjoys **building things, experimenting with code, and learning how technology works behind the scenes.**
-
-Currently, I'm focusing on strengthening my programming fundamentals and turning what I learn into practical projects.
+> 🎓 Computer Science & Engineering student at **Indus University**
+> 🐍 Building my skills with **Python & programming**
+> 🌐 Exploring **Web Development & Django**
+> 🔐 Exploring **Cybersecurity & Linux**
+> 🏆 Learning through **projects, coding & hackathons**
 
 ---
 
 ## ⚡ `current_status`
 
 ```text
-🐍 Python              ███████████████░░░  Learning
-🌐 Web Development     ████████████░░░░░░  Building
-🔐 Cybersecurity       █████████░░░░░░░░░  Exploring
-📊 DSA                 █████████░░░░░░░░░  Practicing
-🚀 Projects            ████████░░░░░░░░░░  Building
+╔══════════════════════════════════════════════╗
+║              SYSTEM STATUS                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  🟢 Coding             ONLINE                ║
+║  🟢 Learning           ACTIVE                ║
+║  🟢 Building           ACTIVE                ║
+║  🟡 Cybersecurity      EXPLORING             ║
+║  🟡 DSA                LEVELING UP            ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-> 🔭 Currently building my programming and development portfolio.
+### 🔭 Currently working on
 
-> 🌱 Currently exploring Python, Django, Web Development and Cybersecurity.
+**Python projects + Web Development**
 
-> 🏆 Learning through projects, problem-solving and hackathons.
+### 🌱 Currently learning
+
+**Django • Linux • Cybersecurity • DSA**
+
+### 💬 Ask me about
+
+**Python • Git & GitHub • Web Development**
+
+### ⚡ Fun fact
+
+I enjoy turning **"I don't know how"** into **"let me figure it out."**
 
 ---
 
-## 🛠️ `tech_stack`
+# 🛠️ `tech_stack`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,django,git,github,vscode,linux" />
-</p>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,django" />
+
+</div>
 
 ---
 
-## 🔥 `featured_projects`
+# 🚀 `what_i_build`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 Python Projects
+
+Building my Python foundation through:
+
+* Fundamentals
+* Exercises
+* Challenges
+* Problem solving
+* Mini projects
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Development
+
+Exploring:
+
+* HTML
+* CSS
+* JavaScript
+* Django
+* Real-world web applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+Currently exploring:
+
+* Linux
+* Networking
+* Security fundamentals
+* Ethical hacking concepts
+
+</td>
+
+<td width="50%">
+
+### 🏆 Hackathons
+
+Turning real-world problems into:
+
+* Ideas
+* Prototypes
+* Technology solutions
+* Team projects
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔥 `featured_projects`
 
 ### 🐍 Python Learning Journey
 
-A collection of Python fundamentals, exercises, challenges and practice programs.
+> A collection of Python fundamentals, exercises, challenges and practical programs created while building my programming foundation.
 
-**Learning:** `Python` `Logic Building` `Problem Solving`
+**Tech:** `Python` `Problem Solving`
 
 ---
 
 ### 💰 Personal Expense Analyzer
 
-A Java-based project focused on managing and analyzing personal expenses.
+> A Java-based project focused on managing and analyzing personal expenses.
 
-**Built with:** `Java` `OOP` `Problem Solving`
+**Tech:** `Java` `OOP` `Problem Solving`
 
 ---
 
 ### 🌐 Web Development Projects
 
-Building practical websites and applications while learning modern web technologies.
+> A growing collection of websites and web applications built while exploring frontend development and Django.
 
-**Exploring:** `HTML` `CSS` `JavaScript` `Django`
+**Tech:** `HTML` `CSS` `JavaScript` `Django`
 
 ---
 
 ### 🏆 Hackathon Projects
 
-Working with teams to turn real-world problems into practical technology-based solutions.
+> Technology-based solutions created with teams to solve real-world problems.
 
-**Focus:** `Innovation` `Teamwork` `Problem Solving`
-
----
-
-## 📊 `github_stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagannathjoshi2007-crypto&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathjoshi2007-crypto&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-</p>
+**Tech:** `Problem Solving` `Teamwork` `Innovation`
 
 ---
 
-## 🏆 `achievements`
+# 📊 `github_stats`
 
-```text
-🎓 Computer Science & Engineering
-💻 Building programming projects
-🏆 Participating in hackathons
-🐍 Developing Python skills
-🔐 Exploring Cybersecurity
-🚀 Growing one project at a time
-```
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jagannathjoshi2007-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-## 📈 `activity`
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathjoshi2007-crypto&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagannathjoshi2007-crypto&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
-## 💻 `terminal`
+# 🏆 `github_trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jagannathjoshi2007-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+</div>
+
+---
+
+# 📈 `contribution_activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagannathjoshi2007-crypto&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 💻 `terminal`
 
 ```bash
-$ whoami
+┌──(jagannath㉿github)-[~]
+└─$ whoami
 
 Jagannath Joshi
 
-$ cat goal.txt
 
-Become a developer who can build,
-solve problems and understand systems.
+┌──(jagannath㉿github)-[~]
+└─$ cat goal.txt
 
-$ git status
+Build skills.
+Build projects.
+Solve problems.
+Get better every day.
+
+
+┌──(jagannath㉿github)-[~]
+└─$ git status
 
 On branch main
 
-Learning...
-Building...
-Improving...
+Changes not staged:
+    learning
+    building
+    improving
 
-$ git commit -m "keep going"
+
+┌──(jagannath㉿github)-[~]
+└─$ git commit -m "keep going"
 
 🚀 Progress committed successfully.
 ```
 
 ---
 
-## 🎯 `mission.exe`
+# 🎯 `mission.exe`
 
 ```text
-[01] Strengthen programming fundamentals
-[02] Build real-world projects
-[03] Gain internship experience
-[04] Improve DSA & problem solving
-[05] Build strong cybersecurity foundations
-[06] Keep learning. Keep building.
+╔══════════════════════════════════════════════╗
+║              JAGANNATH.EXE                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [01] Strengthen Python                     ║
+║  [02] Build real-world projects             ║
+║  [03] Improve DSA & problem solving         ║
+║  [04] Learn Web Development                 ║
+║  [05] Build Cybersecurity foundations       ║
+║  [06] Gain industry experience              ║
+║  [07] Keep learning                         ║
+║                                              ║
+║              STATUS: RUNNING...              ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌐 `connect_with_me`
+# 🌐 `connect`
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/jagannathjoshi2007-crypto">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### `> building quietly. growing consistently.`
+## `> building quietly. growing consistently.`
 
-**Thanks for visiting my profile. 🚀**
+### ⚡ Learn. Build. Break. Fix. Repeat.
 
-</p>
+**Thanks for visiting my digital space. 🚀**
 
+</div>
