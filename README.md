@@ -1,92 +1,113 @@
 <div align="center">
 
-# Hey, I'm **Jagannath Joshi**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Python+Developer+%F0%9F%90%8D;Web+Development+%F0%9F%8C%90;Cybersecurity+Explorer+%F0%9F%94%90;Building+%E2%80%A2+Learning+%E2%80%A2+Improving+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=JAGANNATH+JOSHI;CSE+STUDENT+%7C+BUILDER+%7C+CYBERSECURITY+ENTHUSIAST;PYTHON+%7C+WEB+%7C+LINUX;LEARN.+BUILD.+BREAK.+FIX.;WELCOME+TO+MY+DIGITAL+SPACE+%F0%9F%9A%80" />
 
 <br>
 
-<a href="https://github.com/jagannathjoshi2007-crypto">
-<img src="https://komarev.com/ghpvc/?username=jagannathjoshi2007-crypto&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00f5ff,100:111827&height=120&section=header" />
+
+</div>
+
+# `> whoami`
+
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   J A G A N N A T H   J O S H I                    │
+│                                                      │
+│   🎓  Diploma → B.Tech CSE                           │
+│   🐍  Python Developer in Progress                  │
+│   🌐  Web Development Explorer                      │
+│   🔐  Cybersecurity Enthusiast                       │
+│   🏆  Hackathon Participant                          │
+│                                                      │
+│   Location: Gujarat, India                           │
+│   Status:   ████████████████████ ONLINE             │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
+
+> **I don't want to just learn technology. I want to build with it.**
+
+I'm a **Computer Science & Engineering student at Indus University**, currently building my skills across programming, web development and cybersecurity.
+
+My journey started with a **Diploma in IT**, and I'm now continuing that journey through B.Tech CSE.
+
+I learn best by **building things, breaking things, fixing things, and trying again.**
+
+---
+
+# 🧬 `my_journey.exe`
+
+```text
+                 MY JOURNEY
+
+        ┌─────────────────────┐
+        │   IT DIPLOMA 🎓     │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │   B.TECH CSE 💻     │
+        │   Indus University  │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │   BUILDING SKILLS   │
+        │                     │
+        │ Python              │
+        │ Web Development     │
+        │ Git & GitHub        │
+        │ DSA                 │
+        │ Cybersecurity       │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │  REAL WORLD BUILDER │
+        │        🚀           │
+        └─────────────────────┘
+```
+
+---
+
+# ⚡ `system.status`
+
+```text
+┌─────────────────────────────────────────────────┐
+│                  JAGANNATH.OS                   │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│  🟢 Python              [██████████████░░]      │
+│  🟢 Web Development     [███████████░░░░░]      │
+│  🟡 Cybersecurity       [█████████░░░░░░░]      │
+│  🟡 Linux               [███████░░░░░░░░░]      │
+│  🟡 DSA                 [████████░░░░░░░░]      │
+│  🔵 Projects            [██████████░░░░░░]      │
+│                                                 │
+│  STATUS: LEARNING • BUILDING • EVOLVING        │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 `currently.exe`
+
+<div align="center">
+
+|   🔭 Building   |  🌱 Learning |  🔐 Exploring |
+| :-------------: | :----------: | :-----------: |
+| Python Projects |    Django    | Cybersecurity |
+|   Web Projects  |      DSA     |     Linux     |
+| Hackathon Ideas | Git & GitHub |   Networking  |
 
 </div>
 
 ---
 
-## 🧑‍💻 `whoami`
-
-```python
-class JagannathJoshi:
-
-    def __init__(self):
-        self.name = "Jagannath Joshi"
-        self.role = "CSE Student"
-        self.university = "Indus University"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "C",
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
-
-        self.interests = [
-            "Web Development",
-            "Cybersecurity",
-            "Problem Solving",
-            "Hackathons"
-        ]
-
-    def mission(self):
-        return "Learn → Build → Improve → Repeat"
-```
-
-> 🎓 Computer Science & Engineering student at **Indus University**
-> 🐍 Building my skills with **Python & programming**
-> 🌐 Exploring **Web Development & Django**
-> 🔐 Exploring **Cybersecurity & Linux**
-> 🏆 Learning through **projects, coding & hackathons**
-
----
-
-## ⚡ `current_status`
-
-```text
-╔══════════════════════════════════════════════╗
-║              SYSTEM STATUS                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🟢 Coding             ONLINE                ║
-║  🟢 Learning           ACTIVE                ║
-║  🟢 Building           ACTIVE                ║
-║  🟡 Cybersecurity      EXPLORING             ║
-║  🟡 DSA                LEVELING UP            ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-### 🔭 Currently working on
-
-**Python projects + Web Development**
-
-### 🌱 Currently learning
-
-**Django • Linux • Cybersecurity • DSA**
-
-### 💬 Ask me about
-
-**Python • Git & GitHub • Web Development**
-
-### ⚡ Fun fact
-
-I enjoy turning **"I don't know how"** into **"let me figure it out."**
-
----
-
-# 🛠️ `tech_stack`
+# 🛠️ `arsenal`
 
 <div align="center">
 
@@ -94,139 +115,143 @@ I enjoy turning **"I don't know how"** into **"let me figure it out."**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
 
-### Tools & Technologies
+### Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,django" />
-
-</div>
-
----
-
-# 🚀 `what_i_build`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐍 Python Projects
-
-Building my Python foundation through:
-
-* Fundamentals
-* Exercises
-* Challenges
-* Problem solving
-* Mini projects
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Development
-
-Exploring:
-
-* HTML
-* CSS
-* JavaScript
-* Django
-* Real-world web applications
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Cybersecurity
-
-Currently exploring:
-
-* Linux
-* Networking
-* Security fundamentals
-* Ethical hacking concepts
-
-</td>
-
-<td width="50%">
-
-### 🏆 Hackathons
-
-Turning real-world problems into:
-
-* Ideas
-* Prototypes
-* Technology solutions
-* Team projects
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔥 `featured_projects`
-
-### 🐍 Python Learning Journey
-
-> A collection of Python fundamentals, exercises, challenges and practical programs created while building my programming foundation.
-
-**Tech:** `Python` `Problem Solving`
-
----
-
-### 💰 Personal Expense Analyzer
-
-> A Java-based project focused on managing and analyzing personal expenses.
-
-**Tech:** `Java` `OOP` `Problem Solving`
-
----
-
-### 🌐 Web Development Projects
-
-> A growing collection of websites and web applications built while exploring frontend development and Django.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Django`
-
----
-
-### 🏆 Hackathon Projects
-
-> Technology-based solutions created with teams to solve real-world problems.
-
-**Tech:** `Problem Solving` `Teamwork` `Innovation`
-
----
-
-# 📊 `github_stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jagannathjoshi2007-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathjoshi2007-crypto&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-# 🏆 `github_trophies`
+# 🔥 `projects/`
+
+## 🐍 Python Journey
+
+```text
+A growing collection of Python fundamentals,
+practice problems, challenges and mini projects.
+
+→ Variables
+→ Data Types
+→ Conditions
+→ Loops
+→ Functions
+→ Data Structures
+→ Problem Solving
+```
+
+**Stack:** `Python`
+
+---
+
+## 🌐 Web Development
+
+```text
+Learning how the web works —
+from simple HTML pages to dynamic applications.
+
+HTML → CSS → JavaScript → Django
+```
+
+**Stack:** `HTML` `CSS` `JavaScript` `Django`
+
+---
+
+## 💰 Personal Expense Analyzer
+
+```text
+A Java project focused on managing
+and analyzing personal expenses.
+
+Focus:
+→ OOP
+→ Logic
+→ Data handling
+→ Problem solving
+```
+
+**Stack:** `Java`
+
+---
+
+## 🏆 Hackathon Builds
+
+```text
+Ideas → Team → Prototype → Solution
+
+Turning real-world problems into
+technology-driven solutions.
+```
+
+**Focus:** `Innovation` `Teamwork` `Problem Solving`
+
+---
+
+# 🧪 `learning_lab`
+
+```text
+┌────────────────────────────────────────────┐
+│              CURRENT EXPERIMENTS           │
+├────────────────────────────────────────────┤
+│                                            │
+│  🐍 Python                                │
+│  🌐 Django                                │
+│  🐧 Linux                                 │
+│  🔐 Cybersecurity                         │
+│  🌐 Networking                            │
+│  🧠 DSA                                   │
+│  🔧 Git & GitHub                          │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 `github.analytics`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jagannathjoshi2007-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jagannathjoshi2007-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jagannathjoshi2007-crypto&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathjoshi2007-crypto&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 `contribution_activity`
+# 🏆 `achievements`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagannathjoshi2007-crypto&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=jagannathjoshi2007-crypto&theme=tokyonight&no-frame=true&no-bg=true&column=4" />
+
+</div>
+
+---
+
+# 📈 `activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagannathjoshi2007-crypto&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 `contribution.exe`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -240,26 +265,31 @@ Turning real-world problems into:
 
 Jagannath Joshi
 
-
 ┌──(jagannath㉿github)-[~]
-└─$ cat goal.txt
+└─$ cat journey.txt
 
-Build skills.
-Build projects.
-Solve problems.
-Get better every day.
-
+Diploma in IT
+      ↓
+B.Tech CSE
+      ↓
+Python
+      ↓
+Web Development
+      ↓
+Cybersecurity
+      ↓
+Real World Projects
 
 ┌──(jagannath㉿github)-[~]
 └─$ git status
 
 On branch main
 
-Changes not staged:
-    learning
-    building
-    improving
+Learning...
+Building...
+Improving...
 
+nothing to commit.
 
 ┌──(jagannath㉿github)-[~]
 └─$ git commit -m "keep going"
@@ -272,20 +302,21 @@ Changes not staged:
 # 🎯 `mission.exe`
 
 ```text
-╔══════════════════════════════════════════════╗
-║              JAGANNATH.EXE                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  [01] Strengthen Python                     ║
-║  [02] Build real-world projects             ║
-║  [03] Improve DSA & problem solving         ║
-║  [04] Learn Web Development                 ║
-║  [05] Build Cybersecurity foundations       ║
-║  [06] Gain industry experience              ║
-║  [07] Keep learning                         ║
-║                                              ║
-║              STATUS: RUNNING...              ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                  MISSION.EXE                     ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  [✓] Learn programming                           ║
+║  [✓] Start building projects                    ║
+║  [→] Build stronger Python skills               ║
+║  [→] Become better at DSA                       ║
+║  [→] Build Web Development projects             ║
+║  [→] Build Cybersecurity foundations            ║
+║  [→] Get industry experience                    ║
+║  [→] Build something people actually use       ║
+║                                                  ║
+║             STATUS: IN PROGRESS...               ║
+╚══════════════════════════════════════════════════╝
 ```
 
 ---
@@ -295,7 +326,11 @@ Changes not staged:
 <div align="center">
 
 <a href="https://github.com/jagannathjoshi2007-crypto">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -304,10 +339,12 @@ Changes not staged:
 
 <div align="center">
 
-## `> building quietly. growing consistently.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:00f5ff,100:0f172a&height=100&section=footer" />
 
-### ⚡ Learn. Build. Break. Fix. Repeat.
+### `> building quietly. growing consistently.`
 
-**Thanks for visiting my digital space. 🚀**
+**Learn. Build. Break. Fix. Repeat.**
+
+`© Jagannath Joshi`
 
 </div>
