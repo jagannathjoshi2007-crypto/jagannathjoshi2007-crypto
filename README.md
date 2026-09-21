@@ -1,5 +1,3 @@
-## 🧑‍💻 About Me
-
 Hi, I'm **Jagannath Joshi**, a **B.Tech Computer Science & Engineering student at Indus University** with a background in **Diploma in Information Technology**.
 
 I'm passionate about **software development, web technologies, and cybersecurity**. I enjoy learning by building practical projects, experimenting with new technologies, and solving real-world problems.
