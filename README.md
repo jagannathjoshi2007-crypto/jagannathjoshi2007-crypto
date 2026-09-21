@@ -1,3 +1,15 @@
+## 🧑‍💻 About Me
+
+Hi, I'm **Jagannath Joshi**, a **B.Tech Computer Science & Engineering student at Indus University** with a background in **Diploma in Information Technology**.
+
+I'm passionate about **software development, web technologies, and cybersecurity**. I enjoy learning by building practical projects, experimenting with new technologies, and solving real-world problems.
+
+🔭 **Currently working on:** Python & Web Development projects
+🎓 **Education:** Diploma in IT → B.Tech CSE
+🔐 **Interested in:** Cybersecurity, Ethical Hacking, Linux & Networking
+🌱 **Currently learning:** Python, Django, DSA, Linux & Cybersecurity
+💻 **Building with:** Python, Java, C/C++, HTML, CSS, JavaScript & Django
+🏆 **Interested in:** Hackathons, real-world projects & open-source development
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -116,18 +128,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathjoshi2007-crypto&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 # 🏆 GitHub Achievements
 
