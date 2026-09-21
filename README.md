@@ -7,7 +7,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00f5ff,100:111827&height=120&section=header" />
 
 </div>
-Hi, I'm **Jagannath Joshi**, a **B.Tech Computer Science & Engineering student at Indus University** with a background in **Diploma in Information Technology**.
+
+ABOUT ME
+
+Hi, I'm Jagannath Joshi, a B.Tech Computer Science & Engineering student at Indus University with a background in Diploma in Information Technology.
 
 I'm passionate about **software development, web technologies, and cybersecurity**. I enjoy learning by building practical projects, experimenting with new technologies, and solving real-world problems.
 
