@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=JAGANNATH+JOSHI;CSE+STUDENT+%7C+BUILDER+%7C+CYBERSECURITY+ENTHUSIAST;PYTHON+%7C+WEB+%7C+LINUX;LEARN.+BUILD.+BREAK.+FIX.;WELCOME+TO+MY+DIGITAL+SPACE+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00f5ff,100:111827&height=120&section=header" />
+
+</div>
 Hi, I'm **Jagannath Joshi**, a **B.Tech Computer Science & Engineering student at Indus University** with a background in **Diploma in Information Technology**.
 
 I'm passionate about **software development, web technologies, and cybersecurity**. I enjoy learning by building practical projects, experimenting with new technologies, and solving real-world problems.
